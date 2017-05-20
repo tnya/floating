@@ -54,14 +54,19 @@ p{
 	font-family: "Baloo Paaji";
 }
 
+.img_1{
+	width: 20%;
+}
 .img_2{
 	float: left;
 	margin: 20px;
+	width: 20%;
 }
 
 .img_3{
 	float: right;
 	margin: 20px;
+	width: 20%;
 }
 /* div derecho */
 
@@ -75,6 +80,7 @@ p{
 .derecho img{
 	float: left;
 	padding: 20px;
+	width: 20%;
 }
 /* div izq */
 
@@ -89,6 +95,7 @@ p{
 .izquierdo img{
 	float: right;
 	padding: 20px;
+	width: 20%;
 }
 
 .fotos p {
